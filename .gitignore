@@ -1,3 +1,7 @@
 gittest/sample.txt
 *.pdf
 *.png
+__pycache__
+*.gz
+.ipynb_checkpoints
+*.pkl
